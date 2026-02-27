@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>net.youssfi</groupId>
-    <artifactId>enst-bot</artifactId>
+    <artifactId>babacar</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>enst-bot</name>
     <description>enst-bot</description>
