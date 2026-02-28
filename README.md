@@ -4,7 +4,8 @@
 
 # Chatbot AI MCP Telegram Client
 
-![Project Logo](https://via.placeholder.com/150)
+![me](https://github.com/user-attachments/assets/6b9b5697-414b-4c6f-aab3-9dc793ad962e)
+
 
 ## Description
 
@@ -122,6 +123,7 @@ flowchart LR
 MIT License © 2026 Babacar Faye
 
 ---
+
 
 
 
